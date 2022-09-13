@@ -18,7 +18,7 @@
 | valor | valor | valor |
 |valor  | valor  | valor |
 
-- Cree una consulta SQL que obtenga los datos de la tabla ARTICULOS atículos cuyo PRECIO esté entre los 60 y los 120 USD (ambas cantidades incluidas) .**
+- Cree una consulta SQL que obtenga los datos de la tabla ARTICULOS atículos cuyo PRECIO esté entre los 60 y los 120 USD (ambas cantidades incluidas) .
 <br>
 
 ### **5) Obtener el NOMBRE y el PRECIO convertido a ARS (Pesos argentinos) con una relación 1 USD = 300 ARS. Para esta última, cree una columna con el nombre PrecioARS**  
